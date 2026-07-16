@@ -23,8 +23,7 @@ This project demonstrates an end-to-end Business Intelligence workflow using Pow
 * Power Query
 * DAX (Data Analysis Expressions)
 * Data Modeling
-* Microsoft Excel
-* Git & GitHub
+* GitHub
 
 ---
 
